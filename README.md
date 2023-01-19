@@ -1,2 +1,2 @@
 # swift-serenade
-To All Taylor Swift fan's, here's swift serenade ehich is a music player which contains the spectacular Taylor Swift's best songs.
+To All Taylor Swift fan's, here's swift serenade which is a music player that contains the spectacular Taylor Swift's best songs.
